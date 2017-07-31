@@ -1,0 +1,27 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9dd7962a-2d64-48b4-894b-c8bd712784df" name="knygos" url="http://94.176.237.229">
+        <fileTransfer host="94.176.237.229" port="22" accessType="SFTP" password="dfeddfdfdfd8dfcedfc3dfc7dfcbdfc3dfeddfdfdfd8dfcedfc3dfc7dfcbdfc3" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="bccb4623-5a38-42b4-9bc9-72150099234d" name="nolife" url="http://new.mixas.eu">
+        <fileTransfer host="94.176.237.227" port="22" rootFolder="/var/www/nolife" accessType="SFTP" password="dffadfcfdfd8dfd9dfc3dfd9dfdedfcfdfc7dfdadfc6dfcfdfdedfc3dfeedfcbdfdfdfcddfdedfcbdfd9dfc1dfc3dfd9" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="3e91de71-75d1-40f9-bbe5-6b126ef860f8" name="mixas" url="http://94.176.237.227">
+        <fileTransfer host="94.176.237.227" port="22" accessType="SFTP" password="dffadfcfdfd8dfd9dfc3dfd9dfdedfcfdfc7dfdadfc6dfcfdfdedfc3dfeedfcbdfdfdfcddfdedfcbdfd9dfc1dfc3dfd9" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
