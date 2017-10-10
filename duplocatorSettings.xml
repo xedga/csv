@@ -1,0 +1,19 @@
+<application>
+  <component name="DuplocatorSettings">
+    <option name="SELECTED_PROFILES">
+      <set>
+        <option value="CoffeeScript" />
+      </set>
+    </option>
+    <option name="LAST_SELECTED_LANGUAGE" value="CoffeeScript" />
+  </component>
+  <component name="MultiLanguageDuplocatorSettings">
+    <object language="CoffeeScript">
+      <option name="DISTINGUISH_VARIABLES" value="true" />
+      <option name="DISTINGUISH_LITERALS" value="false" />
+    </object>
+    <object language="XML">
+      <option name="LOWER_BOUND" value="1" />
+    </object>
+  </component>
+</application>
