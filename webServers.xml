@@ -29,14 +29,14 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="178b6e8a-8ee9-4f03-b938-885efcaf476c" name="discord" url="http://mixas.eu">
+      <webServer id="178b6e8a-8ee9-4f03-b938-885efcaf476c" name="discord (1)" url="http://mixas.eu">
         <fileTransfer host="mixas.eu" port="21" password="df9adfc6dfe4dfe8dfc8dfc3dfe1dffadfdadff9" username="admin">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="1899d233-2e03-4285-948d-340a60524822" name="discord" url="http://mixas.eu">
+      <webServer id="1899d233-2e03-4285-948d-340a60524822" name="discord (2)" url="http://mixas.eu">
         <fileTransfer host="mixas.eu" port="22" rootFolder="/home/admin/web/test.mixas.eu/public_html" accessType="SFTP" password="df9adfc6dfe4dfe8dfc8dfc3dfe1dffadfdadff9" username="admin">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
